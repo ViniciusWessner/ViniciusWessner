@@ -5,9 +5,10 @@
 - 📫 How to reach me ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusWessner)](https://github.com/ViniciusWessner/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusWessner&hide=javascript,html)](https://github.com/ViniciusWessner/github-readme-stats)
 
 
-# Languages and tools
+# Languages and toolsViniciusWessner
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/hyml/html.png"></code>
 
