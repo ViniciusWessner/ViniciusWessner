@@ -8,8 +8,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 
-Me chamo Vinícius, Tenho 19 anos, nasci na cidade de montenegro Rs, Sou apaixonado em tecnologia a 5 anos. Tenho muita curiosidade de saber como as coisas funcionam, E porque funcionam. Estou em busca de conhecimentos na área de informática
-atualmente estou fazendo uma graduação em Analise e desenvolvimento de sistemas
+<h5>Me chamo Vinícius, Tenho 19 anos, sou um mero estudante de Analise e desenvolvimento de sistemas e com muita vontade de aprender</h5>
 
 
 
