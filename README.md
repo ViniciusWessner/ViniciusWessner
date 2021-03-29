@@ -13,14 +13,14 @@ Meu nome é Vinicius, eu sou estudante de analise e desnvolvimento de sistemas, 
 <br />
 
 
-* 💬 Pergunte-me sobre qualquer coisa [here](https://www.linkedin.com/in/vinicius-wessner-386291195/)
+* 💬 Pergunte-me sobre qualquer coisa [Aqui](https://www.linkedin.com/in/vinicius-wessner-386291195/), Estou aguardando!!
 
 
 
 
 
 
-### Language and tools
+### Linguagens e Ferramentas
 
 <code> <img height = "22" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </code>
 <code> <img height = "22" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"> </code>
