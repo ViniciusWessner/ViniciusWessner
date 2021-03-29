@@ -13,7 +13,7 @@ Meu nome é Vinicius, eu sou estudante de analise e desnvolvimento de sistemas, 
 <br />
 
 
-* 💬 Pergunte-me sobre qualquer coisa [here] (https://www.linkedin.com/in/vinicius-wessner-386291195/)
+* 💬 Pergunte-me sobre qualquer coisa [here](https://www.linkedin.com/in/vinicius-wessner-386291195/)
 
 
 
