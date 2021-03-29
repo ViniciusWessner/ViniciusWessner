@@ -18,8 +18,8 @@
 
 ### Language and tools
 
-<code> <img height = "15" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </code>
-<code> <img height = "15" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"> </code>
-<code> <img height = "15" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> </code>
-<code> <img height = "15" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </code>
-<code> <img height = "15" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </code>    
+<code> <img height = "22" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </code>
+<code> <img height = "22" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"> </code>
+<code> <img height = "22" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> </code>
+<code> <img height = "22" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </code>
+<code> <img height = "22" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </code>    
