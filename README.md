@@ -10,8 +10,10 @@
 <br />
 <br />
 
-*  Atualmente estou cursando Analise e desenvolvimento de sistemas
-
+### Opa, tudo certo?
+Meu nome é Vinicius, eu sou estudante de analise e desnvolvimento de sistemas, atualmente sou residente de Montenegro, RS
+<br />
+<br />
 * 💬 Pergunte-me sobre qualquer coisa [here] (https://www.linkedin.com/in/vinicius-wessner-386291195/)
 
 
