@@ -1,4 +1,7 @@
-### Hi there, i'am Vinicius 👋
+### Vinicius Wessner 👋
+Meu nome é Vinicius, eu sou estudante de analise e desnvolvimento de sistemas, atualmente sou residente de Montenegro, RS
+<br />
+<br />
 <a href="https://www.linkedin.com/in/vinicius-wessner-386291195/">
   <img align = "left" alt = "linkedin" width = "20px" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
@@ -10,10 +13,7 @@
 <br />
 <br />
 
-### Opa, tudo certo?
-Meu nome é Vinicius, eu sou estudante de analise e desnvolvimento de sistemas, atualmente sou residente de Montenegro, RS
-<br />
-<br />
+
 * 💬 Pergunte-me sobre qualquer coisa [here] (https://www.linkedin.com/in/vinicius-wessner-386291195/)
 
 
