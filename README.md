@@ -10,6 +10,9 @@
 <br />
 <br />
 
+*  Atualmente estou cursando Analise e desenvolvimento de sistemas
+
+* 💬 Pergunte-me sobre qualquer coisa [aqui] (https://www.linkedin.com/in/vinicius-wessner-386291195/)
 
 
 
