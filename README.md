@@ -1,5 +1,10 @@
 ### Hey, I'm Vinicius Wessner! 👋
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ViniciusWessner/count.svg" />
+</p>
+
 Support at [Anota Ai](https://anota.ai) <br>
 
 
@@ -12,5 +17,7 @@ Support at [Anota Ai](https://anota.ai) <br>
 [LinkedIn](https://www.linkedin.com/in/viniciuswessner/) <br>
 
 🇧🇷 Born in Montenegro, Brazil <br>
+
+
 
 
