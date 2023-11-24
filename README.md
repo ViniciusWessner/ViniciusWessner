@@ -1,17 +1,26 @@
-### Hey, I'm Vinicius Wessner! 👋
+# Olá, eu sou o Vinicius! 👋
+
+<div align="center">
+  <img src="https://github.com/ViniciusWessner/ViniciusWessner/blob/main/header.jpeg?raw=true" alt="Hello world" />
+</div>
 
 <p align="center"> 
-  Visitor count<br>
+  Contador de Visitantes<br>
   <img src="https://profile-counter.glitch.me/ViniciusWessner/count.svg" />
 </p>
 
-Support at [Anota Ai](https://anota.ai) <br>
+## Sobre mim
+
+Sou mais um apaixonado por tecnologia desde os meus 16 anos. Atualmente, estou focado em me especializar em desenvolvimento de aplicativos para todo o ecossistema IOS e tenho me empenhado em estudar e praticar constantemente para aprimorar minhas habilidades. 
 
 
-### Estou aprendendo
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
+## Coisas pelas quais sou apaixonado
 
-### Find me elsewhere 🌎
+- Ecossistema IOS
+- Automatizacao de tarefas
+- Inteligência artificial
+
+### Fale comigo 🌎
 
 [Instagram](https://www.instagram.com/vinicius.wessner/) <br>
 [LinkedIn](https://www.linkedin.com/in/viniciuswessner/) <br>
