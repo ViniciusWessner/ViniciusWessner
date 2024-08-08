@@ -1,9 +1,5 @@
 # Olá, eu sou o Vinicius! 👋
 
-<div align="center">
-  <img src="https://github.com/ViniciusWessner/ViniciusWessner/blob/main/header.jpeg?raw=true" alt="Hello world" />
-</div>
-
 <p align="center"> 
   Contador de Visitantes<br>
   <img src="https://profile-counter.glitch.me/ViniciusWessner/count.svg" />
