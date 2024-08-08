@@ -12,9 +12,8 @@ Sou mais um apaixonado por tecnologia desde os meus 16 anos. Atualmente, estou f
 
 ## Coisas pelas quais sou apaixonado
 
-- Ecossistema IOS
-- Automatizacao de tarefas
-- Inteligência artificial
+- Ecossistema Android
+- Automação de tarefas
 
 ### Fale comigo 🌎
 
