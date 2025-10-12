@@ -1,9 +1,5 @@
 # Olá, eu sou o Vinicius! 👋
 
-<p align="center"> 
-  Contador de Visitantes<br>
-  <img src="https://profile-counter.glitch.me/ViniciusWessner/count.svg" />
-</p>
 
 
 ### Fale comigo 🌎
